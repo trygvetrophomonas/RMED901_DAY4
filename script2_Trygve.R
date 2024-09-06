@@ -1,7 +1,7 @@
 # Description : trening
 # Author: Trygve
 # Date created: 2024-09-05
-#Date last change
+# Date last change
 
 
 # Setup ----
@@ -17,12 +17,12 @@ data(ames)
 # data henter inn datasettet fra modeldata?
 
 dim(ames)
-#dim ser på datasettet
+# dim ser på datasettet
 
 head(ames, 20)
 tail(ames)
 
-##analyse ----
+## analyse ----
 
 ### subanalyse ----
 
@@ -36,6 +36,8 @@ m_max <- max(ms)
 cat("Max: ", m_max, "; mean: ", m)
 hist(garasje$Sale_Price)
 
+# I agree with changes
+=======
 
 install.packages("lintr"")
 
