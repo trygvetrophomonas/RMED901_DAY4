@@ -6,3 +6,11 @@
 "trygvetrophomonas"
 
 # god lunsj
+
+
+"trygvetrophomonas"
+
+
+#Siljaaddssomething
+
+
