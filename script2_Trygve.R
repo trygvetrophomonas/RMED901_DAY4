@@ -35,3 +35,9 @@ m_max <- max(ms)
 
 cat("Max: ", m_max, "; mean: ", m)
 hist(garasje$Sale_Price)
+
+
+install.packages("lintr"")
+
+
+#Silja_adds_improvements
