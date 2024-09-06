@@ -37,3 +37,9 @@ cat("Max: ", m_max, "; mean: ", m)
 hist(garasje$Sale_Price)
 
 # I agree with changes
+=======
+
+install.packages("lintr"")
+
+
+#Silja_adds_improvements
