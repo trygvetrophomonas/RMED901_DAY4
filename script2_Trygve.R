@@ -37,3 +37,5 @@ cat("Max: ", m_max, "; mean: ", m)
 hist(garasje$Sale_Price)
 
 # I agree with changes
+
+# recheck the line 34
