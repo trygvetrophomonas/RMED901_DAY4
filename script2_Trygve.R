@@ -43,3 +43,5 @@ install.packages("lintr"")
 
 
 #Silja_adds_improvements
+
+# trygve added line
