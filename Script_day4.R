@@ -1,0 +1,1 @@
+# ser dere dette scriptet?
